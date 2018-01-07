@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/SOURCE_MODEL/MOD_SOURCE_MODEL.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/TARGET_MODEL/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/MFOL_ORACLE_MODEL_FOLDER.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_STATUS.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/First_Folder/Mappings/MAP_INT_S_TO_T_EMP.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/PROJ_HARITEJA.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/TARGET_MODEL/MOD_TARGET_MODEL.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_V_MAIL_SERVER.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/SOURCE_MODEL/Global/TAB_EMP.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SOURCE_DS/PSC_SOURCE_DS_SOURCE.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/SOURCE_MODEL/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_TO.xml"/>
+      <param value="/Master Repository/Contexts/CONT_DEV.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/TARGET_DS/PSC_TARGET_DS_TARGET.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_SOURCE_LS.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_FROM.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_TARGET_LS.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_CC.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_BCC.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_SUBJECT.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_SUBJECT1.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_MAIL_PORT.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Variables/VAR_INSERT_COUNT.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/First_Folder/Packages/PACK_PKG_LOG_DETAILS.xml"/>
+      <param value="/Work Repository/Models/ORACLE_MODEL_FOLDER/TARGET_MODEL/Global/TAB_T_EMP1.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Control_Append.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/SOURCE_DS/CONN_SOURCE_DS.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/TARGET_DS/CONN_TARGET_DS.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_Oracle.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/Knowledge Modules/Check(CKM)/KM_CKM_Oracle.xml"/>
+      <param value="/Work Repository/Projects/HARITEJA/First_Folder/Procedures/TRT_PRC_LOG_DETAILS.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/W_HARITEJA_DS/PSC_W_HARITEJA_DS_W_HARITEJA.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_W_HARITEJA_LS.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/W_HARITEJA_DS/CONN_W_HARITEJA_DS.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
